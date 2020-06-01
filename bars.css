@@ -1,0 +1,16 @@
+/* Provide bars styles */
+
+.bar-out {
+	height: 5px;
+	width: 100px;
+	border: 1px solid #000000;
+	margin: 0;
+	padding: 0;
+}
+.bar {
+	left: 0;
+	height: 5px;
+	/* add width: Npx; to local styles */
+	margin: 0;
+	padding: 0;
+}
